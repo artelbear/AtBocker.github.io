@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Oswald&subset=cyrillic');
+
+.piska {
+  background: url('https://wallpapercave.com/wp/y6FpGLP.jpg');
+  background-size: cover;
+  background-position: center;
+}
+.huevo {
+  color: blue;
+  /*font-family: monospace;*/
+  /*font-family: 'Oswald', sans-serif;*/
+font-family: 'Merriweather', serif;
+  font-weight: bold;
+  text-decoration: underline yellow;
+text-shadow: 2px 2px green;
+text-align: center;
+justify-content: center;
+font-size: 90px;
+}
+.ochen {
+  font-family: 'Oswald', sans-serif;
+font-weight: 300;
+text-align: center;
+font-size: 60px;
+
+}
