@@ -87,7 +87,8 @@ article {
   font-family: 'Cormorant Infant';
   font-style: medium;
   text-shadow: 1px 0.5px black;
-  border-right: outset 2px white !important;
+  /*border-right: outset 2px white !important;*/
+  box-shadow: 0px 0px 5px black;
 }
 
 .icon {
