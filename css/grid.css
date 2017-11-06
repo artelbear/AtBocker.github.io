@@ -1,0 +1,26 @@
+.flex {
+  display: flex;
+}
+.column {
+  flex-direction: column;
+}
+.row {
+  flex-direction: row;
+}
+.grid1of1 {
+  width: 100%;
+}
+.grid1of2 {
+  width: 50%;
+  justify-content: center;
+}
+.grid1of3 {
+  width: 33.3333%;
+}
+.grid2of3 {
+  width: 66.6666%;
+}
+.center {
+  justify-content: center;
+  align-items: center;
+}

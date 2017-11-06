@@ -1,0 +1,17 @@
+header {
+  padding: 0.5em;
+
+}
+.moveright {
+  padding-left: 1em;
+}
+
+.movedown {
+  padding-top: 1em;
+}
+.moveup {
+  padding-top: 0em;
+}
+.paddymaker {
+  padding: 1em;
+}

@@ -1,0 +1,7 @@
+.headxture {
+  background-image: url('../camo_texture_ok.png');
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+  background-clip: border-box;
+}
